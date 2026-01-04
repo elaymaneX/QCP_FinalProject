@@ -23,10 +23,10 @@ It is intended for students and anyone interested in quantum information and cry
 
 This project was developed collaboratively by:
 
-Mario Martínez
-Aymane Elamrani
-Marcos Molina
-Alejandro Duque
+- Mario Martínez
+- Aymane Elamrani
+- Marcos Molina
+- Alejandro Duque
 
 ## ⚠️ Disclaimer
 
